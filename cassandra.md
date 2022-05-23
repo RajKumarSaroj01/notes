@@ -122,3 +122,6 @@ https://teddyma.gitbooks.io/learncassandra/content/client/read_requests.html
 - when new nodes joins the cluster cassandra break the  vnode and assignes the part of token,from each existing node, to new nodes
 - provides Atomicity, Isolation,  Durability 
     https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/dml/dmlTransactionsDiffer.html
+    
+- BEST PRACTICE 
+- http://mighty-titan.blogspot.com/2012/06/understanding-cassandras-consistency.html   
