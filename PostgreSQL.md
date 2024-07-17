@@ -43,3 +43,4 @@
 
 #### impact of more number of index in table
 #### why the default  connection is less, so on default connection less number of servers can be connected problem while scalling the server 
+#### how internally ```OVER``` clause works 
